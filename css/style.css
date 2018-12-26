@@ -8171,7 +8171,14 @@ Owl Nav*/
       .sidebar-nav .intro-area {
         margin: 20px 0 65px 30px; } }
     .sidebar-nav .intro-area .avatar-info {
-      margin: 0 auto; }
+      margin-top: 0px;
+      margin-left: -15%;
+    }
+    .sidebar-nav .intro-area .stackoverflow {
+      margin-bottom: auto;
+      margin-top: 80%;
+      margin-left: -10%;
+    }
       .sidebar-nav .intro-area .avatar-info .avatar-img {
         border: 8px solid rgba(0, 0, 0, 0.1); }
         .sidebar-nav .intro-area .avatar-info .avatar-img img {
