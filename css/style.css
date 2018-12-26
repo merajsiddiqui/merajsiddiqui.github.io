@@ -7354,15 +7354,16 @@ Owl Nav*/
           background: #2CAAE1; }
         .about-details .about-social a span.ti-pinterest-alt {
           background: #BD081B; }
-  .about-details .cv-downlaod {
-    float: right; }
+      .cv-downlaod {
+        display: inline-block;
+      }
     @media (max-width: 767px) {
-      .about-details .cv-downlaod {
-        float: none;
+      .cv-downlaod {
+        display: inline-block;
         margin-top: 20px; } }
     @media (min-width: 480px) and (max-width: 767px) {
-      .about-details .cv-downlaod {
-        float: right;
+      .cv-downlaod {
+        display: inline-block;
         margin-top: 0px; } }
 
 /* ====================================
@@ -8142,7 +8143,7 @@ Owl Nav*/
 ===================================================*/
 .sidebar-nav {
   position: absolute;
-  width: 300px;
+  width: 350px;
   background-color: #6909ef;
   height: 100%;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
@@ -8158,7 +8159,7 @@ Owl Nav*/
       height: auto; }
       .sidebar-nav .main-menu-wrap .navbar.fixed {
         position: fixed;
-        width: 300px;
+        width: 320px;
         height: 100%;
         top: 0px; }
   .sidebar-nav .intro-area {
@@ -8290,13 +8291,13 @@ Owl Nav*/
     .parallax-banner, .video-section {
       height: 100vh; } }
   .parallax-banner .intro-info .greetings, .video-section .intro-info .greetings {
-    font-size: 16px;
+    font-size: 30px;
     font-family: "Poppins", sans-serif;
     letter-spacing: 2px;
     text-transform: capitalize; }
     @media (max-width: 767px) {
       .parallax-banner .intro-info .greetings, .video-section .intro-info .greetings {
-        font-size: 14px; } }
+        font-size: 30px; } }
   .parallax-banner .intro-info p, .parallax-banner .intro-info span, .video-section .intro-info p, .video-section .intro-info span {
     color: #fff;
     font-size: 50px;
@@ -8443,7 +8444,7 @@ Owl Nav*/
       display: inline-block; }
 
   .sidebar-nav {
-    left: -300px;
+    left: -350px;
     padding-bottom: 50px; }
     .sidebar-nav .navigation ul {
       padding-bottom: 50px; }
@@ -8492,7 +8493,7 @@ Owl Nav*/
       display: inline-block; }
 
   .sidebar-nav {
-    left: -300px;
+    left: -350px;
     padding-bottom: 50px; }
     .sidebar-nav .navigation ul {
       padding-bottom: 50px; }
