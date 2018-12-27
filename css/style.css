@@ -8143,7 +8143,7 @@ Owl Nav*/
 ===================================================*/
 .sidebar-nav {
   position: absolute;
-  width: 350px;
+  width: 300px;
   background-color: #6909ef;
   height: 100%;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
@@ -8451,7 +8451,7 @@ Owl Nav*/
       display: inline-block; }
 
   .sidebar-nav {
-    left: -350px;
+    left: -300px;
     padding-bottom: 50px; }
     .sidebar-nav .navigation ul {
       padding-bottom: 50px; }
@@ -8500,7 +8500,7 @@ Owl Nav*/
       display: inline-block; }
 
   .sidebar-nav {
-    left: -350px;
+    left: -300px;
     padding-bottom: 50px; }
     .sidebar-nav .navigation ul {
       padding-bottom: 50px; }
